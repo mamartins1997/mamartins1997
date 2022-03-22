@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋 I'm [Marcelo](https://www.linkedin.com/in/marcelo-oliveira-0082b8141)
 
-<!--
-**mamartins1997/mamartins1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Senior Software Engineer at [@CI&T](https://github.com/ciandt)
 
-Here are some ideas to get you started:
+![Github stats](https://github-readme-stats.vercel.app/api?username=mamartins1997&count_private=true&show_icons=true&theme=monokai)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+----------------------------------------------------------------
+
+I'm a custom software developer lover of .Net technology and Docker.
+
+In my time off work I enjoy live music events and quality beer.
+
+Let's drink and talk about technology? 🍻
+
