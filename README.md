@@ -7,7 +7,7 @@
 
 ----------------------------------------------------------------
 
-I'm a custom software developer lover of .Net technology and Docker.
+I'm a software developer lover of .Net technology and Docker.
 
 In my time off work I enjoy live music events and quality beer.
 
