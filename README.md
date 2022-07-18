@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm [Marcelo](https://www.linkedin.com/in/marcelo-oliveira-0082b8141)
 
-> Senior Software Engineer at [@CI&T](https://github.com/ciandt)
+> Senior Software Engineer
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mamartins1997&count_private=true&show_icons=true&theme=monokai)
 
