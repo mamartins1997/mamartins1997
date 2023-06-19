@@ -2,9 +2,6 @@
 
 > Senior Software Engineer
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=mamartins1997&count_private=true&show_icons=true&theme=monokai)
-
-
 ----------------------------------------------------------------
 
 I'm a software developer lover of .Net technology and Docker.
